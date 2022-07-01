@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexis Filippakopoulos</h1>
-<h3 align="center">Student at Informatics Department, Athens University of Economics and Business🌟.</h3>
+<h1 align="center">Hello visitor 👋, I'm Alexis Filippakopoulos</h1>
+<h3 align="center">Undergraduate at Informatics Department, Athens University of Economics and Business🌟.</h3>
 
 <br>
 
