@@ -1,4 +1,4 @@
-<h1 align="center">Hello visitor 👋, I'm Alexis Filippakopoulos</h1>
+<h1 align="center">Hello visitor 👋, I'm Alex Filippakopoulos</h1>
 <h3 align="center">Undergraduate @ Informatics Department, Athens University of Economics and Business🌟.</h3>
 
 <br>
@@ -11,7 +11,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 
-- 🌱 I’m currently intrigued by Artificial Intelligence, Cybersecurity, Distributed Systems and Decentralization.
+- 🌱 I’m currently intrigued by Artificial Intelligence, Computer Vision, Cybersecurity, Distributed Systems and Decentralization.
 
 - 📫 How to reach me **alexisfilippakopoulos1@gmail.com**
 
