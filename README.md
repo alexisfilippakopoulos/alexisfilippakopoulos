@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18">    Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img
@@ -60,7 +60,7 @@
 
 <br>
 
-<h3>Statistical Data :</h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisfilippakopoulos&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     bg_color=#808080/></p>
