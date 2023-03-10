@@ -1,4 +1,4 @@
-<h1 align="center">Hello visitor, I'm Alex Filippakopoulos</h1>
+
 <h3 align="center">Undergraduate @ Informatics Department, Athens University of Economics and Business.</h3>
 
 <br>
@@ -59,18 +59,3 @@
     </p>
 
 <br>
-
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Statistical Data :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alexisfilippakopoulos&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisfilippakopoulos&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat""
-     /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexisfilippakopoulos&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"  /></p>
-      
