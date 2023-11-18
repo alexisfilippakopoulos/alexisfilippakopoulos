@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
 
 
-- I’m currently intrigued by Artificial Intelligence, Computer Vision, Cybersecurity, Distributed Systems and Decentralization.
+- Intrigued by Machine Learning, Computer Vision, Distributed Systems and Decentralization.
 
 - How to reach me **alexisfilippakopoulos1@gmail.com**
 
