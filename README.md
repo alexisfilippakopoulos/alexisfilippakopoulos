@@ -1,5 +1,5 @@
 
-<h3 align="center">Graduate from the Informatics Department of Athens University of Economics and Business.</h3>
+<h3 align="center">Master of Data Science and Machine Learning @ NTUA</h3>
 
 <br>
 <br> 
