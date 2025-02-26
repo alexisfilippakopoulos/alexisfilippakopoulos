@@ -23,9 +23,12 @@ Specific topics include:
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/373528/cpp3.svg" alt="C++" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="35" height="40"/>
   <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/>
 </p>
 
