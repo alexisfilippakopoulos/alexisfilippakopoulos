@@ -1,58 +1,33 @@
 
-<h3 align="center">Master of Data Science and Machine Learning @ NTUA</h3>
+<h1>About Me</h1>
+Hello! My name is Alexis Filippakopoulos and I am passionate about applying Machine Learning and Data Science to solve real-world problems. During this time, I am pursuing a Master's degree in those fields at National Technical University of Athens.<br><br>
 
-<br>
-<br> 
+I have a strong research interest, currently centered around the intersection of wireless networks and machine learning. 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=alexis-filippakopoulos&label=Profile%20views&color=0e75b6&style=flat" /> 
-  </p>
+Specific topics include:
 
-<br>
+<ul>
+  <li>Efficient distributed, on-device training with applications to federated, collaborative and split learning.</li>
+  <li>Privacy-aware and personalization-centric frameworks for federated and collaborative learning environments.</li>
+</ul>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/></p>
+<h2>Technologies I mostly work with</h2>
 
-
-- Intrigued by Machine Learning, Computer Vision, Distributed Systems and Decentralization.
-
-- How to reach me **alexisfilippakopoulos1@gmail.com**
-
-
-<br>
-
-- <h3 align="left">Connect with me:</h3>
-  <p align="left"> 
-  <a href="https://www.linkedin.com/in/alexis-filippakopoulos-994407235/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="60" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="60" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" alt="pandas" width="60" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png?20200904111722" alt="scipy" width="40" height="40"/> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373528/cpp3.svg" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="35" height="40"/>
+  <img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="linux" width="40" height="40"/>
 </p>
 
-<br>
 
-- <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="18">    Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> 
-      <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-    </p>
 
-<br>
