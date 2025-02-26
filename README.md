@@ -7,7 +7,7 @@ I have a strong research interest, currently centered around the intersection of
 Specific topics include:
 
 <ul>
-  <li>Efficient distributed, on-device training with applications to federated, collaborative and split learning.</li>
+  <li>Efficient large-scale, distributed, on-device training with applications to federated, collaborative and split learning.</li>
   <li>Privacy-aware and personalization-centric frameworks for federated and collaborative learning environments.</li>
 </ul>
 
